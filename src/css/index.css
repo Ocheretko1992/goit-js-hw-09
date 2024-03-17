@@ -1,0 +1,17 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a{
+    color:chocolate;
+    font-size: 30px;
+}
+
+body{ 
+    background-image:url('https://freeradio.com.ua/wp-content/uploads/2023/05/cec65a68cf8f0b4e1b450bbe1556d251-1024x683.jpg');
+    background-size: 100%;
+
+}
+
+
